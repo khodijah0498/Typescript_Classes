@@ -1,0 +1,5 @@
+import addNumber, {addStrings} from "./Day 1/function.tsx"
+
+console.log ( addNumber(2, 3));
+console.log (addStrings("a", "b"));
+consloe.log(addStrings("a"));
